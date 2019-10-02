@@ -2,13 +2,9 @@
 
 Cookie manager for react native.
 
-[![npm version](https://badge.fury.io/js/react-native-cookies.svg)](https://badge.fury.io/js/react-native-cookies)
-[![npm downloads](https://img.shields.io/npm/dm/react-native-cookies.svg)](https://www.npmjs.com/package/react-native-cookies)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/joeferraro/react-native-cookies/master/LICENSE.md)
+### 17hats Forked Libarary
 
-### Looking for Maintainers
-
-I no longer use this library and I'm looking for maintainer(s) to take full control over the development and release cycle.
+Forked from [react-native-cookies](https://github.com/joeferraro/react-native-cookies)
 
 ### Installation
 
